@@ -1,8 +1,8 @@
-## Aquarium
+# Aquarium
 
 Projet pour aquarium autogéré.
 
-# La carte électronique :
+# La carte électronique
 
 * [Carte Arduino UNO](<https://www.gotronic.fr/art-carte-arduino-uno-12420.htm>)
 
